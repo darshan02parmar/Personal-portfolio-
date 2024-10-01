@@ -6,18 +6,18 @@ This repository contains the code for my personal portfolio website, built using
 
 Click  [here](https://darshan02parmar.github.io/Personal-portfolio-/) to see my portfolio.
 
--Features:
+## Features:
 
-Responsive Design: Works on all devices (mobile, tablet, desktop).
+-Responsive Design: Works on all devices (mobile, tablet, desktop).
 Interactive Animations: Smooth scrolling and hover effects to enhance the user experience.
-Skills Section: Displays my expertise in various technologies.
-Projects Section: A showcase of my latest projects with links to live demos and GitHub repositories.
+-Skills Section: Displays my expertise in various technologies.
+-Projects Section: A showcase of my latest projects with links to live demos and GitHub repositories.
 Contact Form: Allows users to get in touch via the form connected to Google Sheets (or any other service).
 
--Future Improvements
+## Future Improvements
 Adding more project showcases.
 Enhancing the form validation and security measures.
 Implementing dark/light mode functionality.
 
--Contributing
+## Contributing
 Feel free to fork this repository and submit pull requests. Any improvements and suggestions are welcome!
